@@ -6,4 +6,4 @@ check50:
 
 submit50:
   include:
-    - *.c
+    - "*.c"

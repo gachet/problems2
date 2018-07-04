@@ -2,12 +2,12 @@ check50:
   requirements:
     - pyyaml
   include:
-    - *.py
+    - "*.py"
   required:
     - hello.py
 
 submit50:
   include:
-    - *.py
+    - "*.py"
   required:
     - hello.py
