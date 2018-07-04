@@ -1,0 +1,9 @@
+check50:
+  requirements:
+    - requests
+  required:
+    - foo.py
+
+submit50:
+  include:
+    - *.c
